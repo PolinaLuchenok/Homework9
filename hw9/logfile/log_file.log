@@ -1,0 +1,12 @@
+2023-04-02 03:40:46 INFO  TestOnliner:40 - site opened
+2023-04-02 03:40:48 INFO  TestOnliner:45 - catalog opened
+2023-04-02 03:40:49 ERROR TestOnliner:65 - Failed 
+2023-04-02 03:40:51 INFO  TestOnliner:40 - site opened
+2023-04-02 03:40:53 INFO  TestOnliner:45 - catalog opened
+2023-04-02 03:40:53 INFO  TestOnliner:76 - section opened
+2023-04-02 03:40:54 INFO  TestOnliner:89 - Assertion passed
+2023-04-02 03:40:56 INFO  TestOnliner:40 - site opened
+2023-04-02 03:40:58 INFO  TestOnliner:45 - catalog opened
+2023-04-02 03:40:58 INFO  TestOnliner:96 - section opened
+2023-04-02 03:40:58 INFO  TestOnliner:99 - item opened
+2023-04-02 03:40:59 INFO  TestOnliner:112 - Assertion passed
